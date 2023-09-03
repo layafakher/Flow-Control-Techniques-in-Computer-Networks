@@ -1,0 +1,110 @@
+Receiver Side is Ready to Accept Packets at PortNumber: 50127
+
+ 
+Initial Data Received = TransmissionInformation [Flow control techniques=1, windowSize=7, packetSize=2, packetCount=20] 
+ Packet 0 received
+Sending Acknowledgment for Packet :0 
+ 
+ Packet 1 received
+Sending Acknowledgment for Packet :1 
+
+Packet 2 lost in the Transmission
+Packet Lost
+
+ 
+ Packet 3 received
+Sending Acknowledgment for Packet :3 
+Packet 3 Stored in Buffer 
+
+ 
+ Packet 4 received
+Sending Acknowledgment for Packet :4 
+Packet 4 Stored in Buffer 
+
+ 
+ Packet 5 received
+Sending Acknowledgment for Packet :5 
+Packet 5 Stored in Buffer 
+
+ 
+ Packet 6 received
+Sending Acknowledgment for Packet :6 
+Packet 6 Stored in Buffer 
+
+ 
+ Packet 7 received
+Sending Acknowledgment for Packet :7 
+Packet 7 Stored in Buffer 
+
+ 
+ Packet 8 received
+Sending Acknowledgment for Packet :8 
+Packet 8 Stored in Buffer 
+
+ 
+ Packet 2 received
+Sending Acknowledgment for Packet :2 
+Packet 3 delivered to Application From Buffer
+Packet 4 delivered to Application From Buffer
+Packet 5 delivered to Application From Buffer
+Packet 6 delivered to Application From Buffer
+Packet 7 delivered to Application From Buffer
+Packet 8 delivered to Application From Buffer
+ 
+ Packet 7 received
+Sending Acknowledgment for Packet :7 
+Packet Already Delivered  Sending Duplicate Ack 
+ 
+ Packet 9 received
+Sending Acknowledgment for Packet :9 
+ 
+ Packet 10 received
+Sending Acknowledgment for Packet :10 
+ 
+ Packet 11 received
+Sending Acknowledgment for Packet :11 
+ 
+ Packet 12 received
+Sending Acknowledgment for Packet :12 
+ 
+ Packet 13 received
+Sending Acknowledgment for Packet :13 
+ 
+ Packet 7 received
+Sending Acknowledgment for Packet :7 
+Packet Already Delivered  Sending Duplicate Ack 
+ 
+ Packet 14 received
+Sending Acknowledgment for Packet :14 
+
+Packet 15 lost in the Transmission
+Packet Lost
+
+ 
+ Packet 16 received
+Sending Acknowledgment for Packet :16 
+Packet 16 Stored in Buffer 
+
+ 
+ Packet 17 received
+Sending Acknowledgment for Packet :17 
+Packet 17 Stored in Buffer 
+
+ 
+ Packet 18 received
+Sending Acknowledgment for Packet :18 
+Packet 18 Stored in Buffer 
+
+ 
+ Packet 19 received
+Sending Acknowledgment for Packet :19 
+Packet 19 Stored in Buffer 
+
+ 
+ Packet 15 received
+Sending Acknowledgment for Packet :15 
+Packet 16 delivered to Application From Buffer
+Packet 17 delivered to Application From Buffer
+Packet 18 delivered to Application From Buffer
+Packet 19 delivered to Application From Buffer
+
